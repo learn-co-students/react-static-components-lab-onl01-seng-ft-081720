@@ -1,5 +1,9 @@
 import React, { Component } from 'react';
 import CatComponent from './CatComponent';
+
+// NOTE I added a default in file GraceHopperQuoteComponent.js
+// LEARNCO solution below
+// import {GraceHopperQuoteComponent} from './GraceHopperQuoteComponent.js'
 import GraceHopperQuoteComponent from './GraceHopperQuoteComponent';
 import MouseComponent from './MouseComponent';
 
